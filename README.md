@@ -7,3 +7,5 @@
 💞️ I’m looking to collaborate on DevOps-related tasks
 
 📫 Mail me@ kalais1620@gmail.com
+
+currently doing an internship in PearlThoghts as a DevOps trainee 
