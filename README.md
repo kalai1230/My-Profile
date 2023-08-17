@@ -8,4 +8,4 @@
 
 📫 Mail me@ kalais1620@gmail.com
 
- currently doing an internship in PearlThoghts as a DevOps trainee 
+ currently doing an internship in PearlThoughts as a DevOps trainee 
