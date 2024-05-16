@@ -1,11 +1,11 @@
 👋 Hi, I’m Kalaivani Kannan
 
-👀 I’m interested in cloud, AWS, DevOps, and Coding
+👀 I’m interested in Data Analytics and Machine Learning 
 
-🌱 I’m currently learning Cloud automation and DevOps engineering
+🌱 I’m currently open to work in Data Analyst and SQL Developer, ML engineer
 
-💞️ I’m looking to collaborate on DevOps-related tasks
+💞️ I’m looking to collaborate with Data set analysis tasks, python programming challenge
 
 📫 Mail me@ kalais1620@gmail.com
 
- currently doing an internship in PearlThoughts as a DevOps trainee 
+ currently doing an internship in DataMites Chennai.
